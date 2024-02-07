@@ -1,0 +1,6 @@
+@APIContactList.Server_HostAddress = http://localhost:5182
+
+GET {{APIContactList.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
